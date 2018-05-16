@@ -1,3 +1,6 @@
+// Problem link: https://codefights.com/interview-practice/task/pMvymcahZ8dY4g75q
+// Status: Accepted
+
 class Solution {
   int firstDuplicate(int[] a) {
     int len = a.length;
